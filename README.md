@@ -1,3 +1,5 @@
+fork from https://github.com/SayaSS/vits-finetuning 修改cleaner为支持中日混合
+
 text cleaner from https://github.com/CjangCjengh/vits
 
 original repo: https://github.com/jaywalnut310/vits
