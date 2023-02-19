@@ -1,4 +1,4 @@
-fork from https://github.com/SayaSS/vits-finetuning 修改cleaner为支持中日混合
+fork from https://github.com/SayaSS/vits-finetuning 修改cleaner为支持中日混合，cleaner来自https://github.com/CjangCjengh/vits
 
 text cleaner from https://github.com/CjangCjengh/vits
 
